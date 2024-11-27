@@ -1,0 +1,30 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Mia organised oranges into baskets. Help Mia by choosing the correct group of oranges.<br><img width='55%' src='./images/9.png'/>",
+      "options": [
+        "2 groups of 3",
+        "3 groups of 2"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Mia packed strawberries into boxes. Choose the correct answer option to help her..<br><img width='55%' src='./images/10.png'/>",
+      "options": [
+        "6 groups of 5",
+        "5 groups of 6"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Mia stacked bread loaves on the shelves. Help Mia by choosing the correct answer.<br><img width='55%' src='./images/11.png'/>",
+      "options": [
+        "6 groups of 4",
+        "4 groups of 6"
+      ],
+      "correct": 0
+    }
+  ]
+  

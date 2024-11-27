@@ -1,0 +1,17 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Mia organised fresh eggs in trays. Help Mia by filling in the blank boxes.",
+    "options":["There are","","groups of","","eggs"],
+    "answers": ["There are","4","groups of","3","eggs"],
+    "secondImg":"./images/11.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": " Mia and her mother arranged bananas on the fruit stand. They need your help to fill in the blank boxes.",
+    "options":["There are","","groups of","","bananas"],
+    "answers": ["There are","2","groups of","7","bananas"],
+    "secondImg":"./images/12.jpg"
+    
+  }
+]
